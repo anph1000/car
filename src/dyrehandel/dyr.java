@@ -24,6 +24,6 @@ class Pets {
 
     @Override
     public String toString() {
-        return type + " (" + color + ")" + sound;
+        return type + " (" + color + "): " + "'" + sound + "'";
     }
 }
