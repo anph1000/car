@@ -3,7 +3,7 @@ package dyrehandel;
 public class PetShop {
     public static void main(String[] args) {
         // Step 1: Original basket
-        Pets[] shop = new Pets[5c4]; // increase size to 4
+        Pets[] shop = new Pets[5]; // increase size to 4
         shop[0] = new Pets("Dog", "Woof!", "Black and Tan");
         shop[1] = new Pets("Cat", "Meow!", "Orange Tabby");
         shop[2] = new Pets("Lizard", "*lizard sounds*", "Green");
